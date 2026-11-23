@@ -1,4 +1,5 @@
 # Proyecto-scb-TEI-201
+# Curso: Taller de diseño en ingenería sec.9
 # Proyecto SCB
 ## Sistema de Clasificación de Basura
 
