@@ -1,0 +1,124 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1020" height="975" viewBox="0 0 680 650" xmlns:c2pa="http://c2pa.org/manifest">
+<rect width="680" height="650" fill="#FFFFFF"/>
+<text x="340" y="21.6" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" fill="#2C2C2A" text-anchor="middle">SCB - Esquema de conexiones (Arduino UNO)</text>
+<g transform="translate(0,28)">
+<rect x="40" y="30" width="130" height="40" rx="6" fill="#EEEDFE" stroke="#534AB7" stroke-width="1"/>
+<text x="105" y="54.9" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#3C3489" text-anchor="middle">Garra · SG90</text>
+<rect x="196" y="30" width="130" height="40" rx="6" fill="#EEEDFE" stroke="#534AB7" stroke-width="1"/>
+<text x="261" y="54.9" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#3C3489" text-anchor="middle">Codo · MG996R</text>
+<rect x="352" y="30" width="130" height="40" rx="6" fill="#EEEDFE" stroke="#534AB7" stroke-width="1"/>
+<text x="417" y="54.9" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#3C3489" text-anchor="middle">Hombro · MG996R</text>
+<rect x="508" y="30" width="130" height="40" rx="6" fill="#EEEDFE" stroke="#534AB7" stroke-width="1"/>
+<text x="573" y="54.9" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#3C3489" text-anchor="middle">Base · MG996R</text>
+<text x="36" y="108.2" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" fill="#5F5E5A" text-anchor="start">+5 V</text>
+<text x="36" y="124.2" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" fill="#5F5E5A" text-anchor="start">GND</text>
+<line x1="70" y1="100" x2="625" y2="100" stroke="#E24B4A" stroke-width="2.5"/>
+<line x1="70" y1="116" x2="608" y2="116" stroke="#378ADD" stroke-width="2.5"/>
+<line x1="85" y1="70" x2="85" y2="100" stroke="#E24B4A" stroke-width="1.5"/>
+<line x1="105" y1="70" x2="105" y2="116" stroke="#854F0B" stroke-width="1.5"/>
+<circle cx="85" cy="100" r="2.5" fill="#E24B4A"/>
+<circle cx="105" cy="116" r="2.5" fill="#378ADD"/>
+<line x1="241" y1="70" x2="241" y2="100" stroke="#E24B4A" stroke-width="1.5"/>
+<line x1="261" y1="70" x2="261" y2="116" stroke="#854F0B" stroke-width="1.5"/>
+<circle cx="241" cy="100" r="2.5" fill="#E24B4A"/>
+<circle cx="261" cy="116" r="2.5" fill="#378ADD"/>
+<line x1="397" y1="70" x2="397" y2="100" stroke="#E24B4A" stroke-width="1.5"/>
+<line x1="417" y1="70" x2="417" y2="116" stroke="#854F0B" stroke-width="1.5"/>
+<circle cx="397" cy="100" r="2.5" fill="#E24B4A"/>
+<circle cx="417" cy="116" r="2.5" fill="#378ADD"/>
+<line x1="553" y1="70" x2="553" y2="100" stroke="#E24B4A" stroke-width="1.5"/>
+<line x1="573" y1="70" x2="573" y2="116" stroke="#854F0B" stroke-width="1.5"/>
+<circle cx="553" cy="100" r="2.5" fill="#E24B4A"/>
+<circle cx="573" cy="116" r="2.5" fill="#378ADD"/>
+<path d="M125 70V150H270V190" fill="none" stroke="#EF9F27" stroke-width="1.5"/>
+<path d="M281 70V160H310V190" fill="none" stroke="#EF9F27" stroke-width="1.5"/>
+<path d="M437 70V160H350V190" fill="none" stroke="#EF9F27" stroke-width="1.5"/>
+<path d="M593 70V172H390V190" fill="none" stroke="#EF9F27" stroke-width="1.5"/>
+<rect x="250" y="190" width="200" height="300" rx="8" fill="#F1EFE8" stroke="#5F5E5A" stroke-width="1"/>
+<text x="270" y="210.2" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" fill="#5F5E5A" text-anchor="middle">D9</text>
+<text x="310" y="210.2" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" fill="#5F5E5A" text-anchor="middle">D6</text>
+<text x="350" y="210.2" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" fill="#5F5E5A" text-anchor="middle">D5</text>
+<text x="390" y="210.2" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" fill="#5F5E5A" text-anchor="middle">D3</text>
+<text x="258" y="224.2" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" fill="#5F5E5A" text-anchor="start">D2</text>
+<text x="258" y="264.2" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" fill="#5F5E5A" text-anchor="start">D4</text>
+<text x="258" y="304.2" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" fill="#5F5E5A" text-anchor="start">D7</text>
+<text x="258" y="344.2" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" fill="#5F5E5A" text-anchor="start">D8</text>
+<text x="258" y="384.2" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" fill="#5F5E5A" text-anchor="start">A0</text>
+<text x="258" y="424.2" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" fill="#5F5E5A" text-anchor="start">A1</text>
+<text x="258" y="464.2" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" fill="#5F5E5A" text-anchor="start">A2</text>
+<text x="440" y="254.2" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" fill="#5F5E5A" text-anchor="end">GND</text>
+<text x="320" y="478.2" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" fill="#5F5E5A" text-anchor="middle">GND</text>
+<text x="380" y="478.2" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" fill="#5F5E5A" text-anchor="middle">5V</text>
+<text x="350" y="344.9" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#2C2C2A" text-anchor="middle">Arduino UNO</text>
+<text x="350" y="364.2" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" fill="#5F5E5A" text-anchor="middle">Solo por USB</text>
+<rect x="18" y="186" width="64" height="326" rx="6" fill="none" stroke="#888780" stroke-width="1" stroke-dasharray="4 3"/>
+<text x="50" y="180.2" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" fill="#5F5E5A" text-anchor="middle">Protoboard</text>
+<line x1="34" y1="204" x2="34" y2="555" stroke="#E24B4A" stroke-width="2.5"/>
+<line x1="64" y1="204" x2="64" y2="540" stroke="#378ADD" stroke-width="2.5"/>
+<path d="M320 490V540H64" fill="none" stroke="#378ADD" stroke-width="1.5"/>
+<path d="M380 490V555H34" fill="none" stroke="#E24B4A" stroke-width="1.5"/>
+<rect x="96" y="204" width="120" height="32" rx="6" fill="#E1F5EE" stroke="#0F6E56" stroke-width="1"/>
+<text x="106" y="224.9" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#085041" text-anchor="start">LJ12A3</text>
+<text x="208" y="224.2" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" fill="#0F6E56" text-anchor="end">OUT</text>
+<line x1="216" y1="220" x2="250" y2="220" stroke="#EF9F27" stroke-width="1.5"/>
+<rect x="96" y="244" width="120" height="32" rx="6" fill="#E1F5EE" stroke="#0F6E56" stroke-width="1"/>
+<text x="106" y="264.9" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#085041" text-anchor="start">LJC18A3</text>
+<text x="208" y="264.2" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" fill="#0F6E56" text-anchor="end">OUT</text>
+<line x1="216" y1="260" x2="250" y2="260" stroke="#EF9F27" stroke-width="1.5"/>
+<rect x="96" y="284" width="120" height="72" rx="6" fill="#E1F5EE" stroke="#0F6E56" stroke-width="1"/>
+<text x="106" y="324.9" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#085041" text-anchor="start">HC-SR04</text>
+<text x="208" y="304.2" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" fill="#0F6E56" text-anchor="end">TRIG</text>
+<line x1="216" y1="300" x2="250" y2="300" stroke="#EF9F27" stroke-width="1.5"/>
+<text x="208" y="344.2" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" fill="#0F6E56" text-anchor="end">ECHO</text>
+<line x1="216" y1="340" x2="250" y2="340" stroke="#EF9F27" stroke-width="1.5"/>
+<rect x="96" y="364" width="120" height="72" rx="6" fill="#E1F5EE" stroke="#0F6E56" stroke-width="1"/>
+<text x="106" y="404.9" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#085041" text-anchor="start">HX711</text>
+<text x="208" y="384.2" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" fill="#0F6E56" text-anchor="end">DT</text>
+<line x1="216" y1="380" x2="250" y2="380" stroke="#EF9F27" stroke-width="1.5"/>
+<text x="208" y="424.2" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" fill="#0F6E56" text-anchor="end">SCK</text>
+<line x1="216" y1="420" x2="250" y2="420" stroke="#EF9F27" stroke-width="1.5"/>
+<rect x="96" y="444" width="120" height="32" rx="6" fill="#E1F5EE" stroke="#0F6E56" stroke-width="1"/>
+<text x="106" y="464.9" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#085041" text-anchor="start">FSR-402</text>
+<text x="208" y="464.2" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" fill="#0F6E56" text-anchor="end">señal</text>
+<line x1="216" y1="460" x2="250" y2="460" stroke="#EF9F27" stroke-width="1.5"/>
+<line x1="96" y1="214" x2="34" y2="214" stroke="#E24B4A" stroke-width="1.5"/>
+<line x1="96" y1="226" x2="64" y2="226" stroke="#378ADD" stroke-width="1.5"/>
+<circle cx="34" cy="214" r="2.5" fill="#E24B4A"/>
+<circle cx="64" cy="226" r="2.5" fill="#378ADD"/>
+<line x1="96" y1="254" x2="34" y2="254" stroke="#E24B4A" stroke-width="1.5"/>
+<line x1="96" y1="266" x2="64" y2="266" stroke="#378ADD" stroke-width="1.5"/>
+<circle cx="34" cy="254" r="2.5" fill="#E24B4A"/>
+<circle cx="64" cy="266" r="2.5" fill="#378ADD"/>
+<line x1="96" y1="314" x2="34" y2="314" stroke="#E24B4A" stroke-width="1.5"/>
+<line x1="96" y1="326" x2="64" y2="326" stroke="#378ADD" stroke-width="1.5"/>
+<circle cx="34" cy="314" r="2.5" fill="#E24B4A"/>
+<circle cx="64" cy="326" r="2.5" fill="#378ADD"/>
+<line x1="96" y1="394" x2="34" y2="394" stroke="#E24B4A" stroke-width="1.5"/>
+<line x1="96" y1="406" x2="64" y2="406" stroke="#378ADD" stroke-width="1.5"/>
+<circle cx="34" cy="394" r="2.5" fill="#E24B4A"/>
+<circle cx="64" cy="406" r="2.5" fill="#378ADD"/>
+<line x1="96" y1="460" x2="34" y2="460" stroke="#E24B4A" stroke-width="1.5"/>
+<circle cx="34" cy="460" r="2.5" fill="#E24B4A"/>
+<path d="M233 460V498H172" fill="none" stroke="#EF9F27" stroke-width="1.5"/>
+<circle cx="233" cy="460" r="2.5" fill="#EF9F27"/>
+<rect x="112" y="488" width="60" height="20" rx="4" fill="#FAEEDA" stroke="#854F0B" stroke-width="1"/>
+<text x="142" y="502.9" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#633806" text-anchor="middle">10 kΩ</text>
+<line x1="112" y1="498" x2="64" y2="498" stroke="#378ADD" stroke-width="1.5"/>
+<circle cx="64" cy="498" r="2.5" fill="#378ADD"/>
+<rect x="490" y="290" width="150" height="60" rx="6" fill="#F1EFE8" stroke="#5F5E5A" stroke-width="1"/>
+<text x="565" y="316.9" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#2C2C2A" text-anchor="middle">Fuente 5 V · 10 A</text>
+<text x="565" y="337.2" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" fill="#5F5E5A" text-anchor="middle">+ cap. 1000 µF</text>
+<line x1="625" y1="290" x2="625" y2="100" stroke="#E24B4A" stroke-width="2.5"/>
+<line x1="608" y1="290" x2="608" y2="116" stroke="#378ADD" stroke-width="2.5"/>
+<line x1="608" y1="250" x2="450" y2="250" stroke="#378ADD" stroke-width="1.5"/>
+<circle cx="608" cy="250" r="3" fill="#378ADD"/>
+<text x="530" y="242.2" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" fill="#5F5E5A" text-anchor="middle">GND común</text>
+<line x1="40" y1="590" x2="70" y2="590" stroke="#EF9F27" stroke-width="1.5"/>
+<text x="78" y="594.2" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" fill="#444441" text-anchor="start">Señal</text>
+<line x1="140" y1="590" x2="170" y2="590" stroke="#E24B4A" stroke-width="2.5"/>
+<text x="178" y="594.2" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" fill="#444441" text-anchor="start">+5 V</text>
+<line x1="230" y1="590" x2="260" y2="590" stroke="#854F0B" stroke-width="1.5"/>
+<text x="268" y="594.2" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" fill="#444441" text-anchor="start">GND del servo (café)</text>
+<line x1="400" y1="590" x2="430" y2="590" stroke="#378ADD" stroke-width="2.5"/>
+<text x="438" y="594.2" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" fill="#444441" text-anchor="start">GND (riel azul)</text>
+</g><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYToyMmI1OGU1MS0xNDJlLTQyMGItODljMi0wZjFjYjc5ODY1MzEAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaKdIMCbz2wl8VuWd6lD8wlkAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDo5YWQyYzNhNS0xOGMzLTQ2MzktYjBlMC1jM2U0MDg2M2RkMjFscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoknShx5KfH1El8LxcM7wLJAAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggBS0uAirOrvLMslGR+vJxhveyVhjhBhtAijnRPvvTfbKkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaPZZNafYGGYcFHwBAmGZtLEAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRMAAAAAAAAAAAAAAAAZGhhc2hYIMnbuP5CCCDC1wDfsPJ48CowUqeBd1CeaHAtFyb0E6DoZG5hbWVuanVtYmYgbWFuaWZlc3RqZXhjbHVzaW9uc4GiZXN0YXJ0GTGjZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjIyYjU4ZTUxLTE0MmUtNDIwYi04OWMyLTBmMWNiNzk4NjUzMS9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjkwOWM5MGM4LTQxOTUtNGYwMy1hY2M0LTkxZTJkYWIxNTI2MXJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCAFLS4CKs6u8syyUZH68nGG97JWGOEGG0CKOdE++9N9sqJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggyn2EUZNMp7a8meBD1TL7vPVKGxYoyalXUa+3Z+lt9GuiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFgg+44wfBMNwNXeALPsrgrpB5pKLHoNZQwYZc1PWrLPn2J0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQF/5nGj5JZcEWApqon1Wb7dxoF6PR7qV7o4L2P+k3z+/2xQ39O0zYmxCZko2HyYBhkvssaxS9Ja2EUgwkSCaE/4=</c2pa:manifest></metadata></svg>
