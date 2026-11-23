@@ -13,7 +13,7 @@ Las diapositivas están en Canva («Proyecto SCB – Avance 3», 12 páginas). C
 | 5:30 | 5. Información para decidir | Matías | Llenado, alertas con acción, composición, masa reciclable y acierto, y quién decide con cada una |
 | 6:15 | 6. Componentes justificados | Martín | Por qué cada componente: rango, precisión, consumo y compatibilidad |
 | 6:55 | 7. Esquemático, costo y reparación | Martín | Esquemático y BOM ($128.000). **Abrir la caja frente al evaluador** |
-| 7:40 | 8. Gemelo 3D | Martín | Cambiar a Fusion: caja con componentes adentro, planos y renders |
+| 7:40 | 8. Gemelo 3D | Martín | Cambiar a Fusion con el gemelo completo: brazo, estación y caja; ocultar la tapa para mostrar la electrónica; planos y renders |
 | 8:25 | 9. Pruebas y resultados | Martín | Acierto por material contra la meta, ciclo medio, pérdida de datos y una falla con su solución |
 | 9:25 | 10. Validación | Martín | Párrafo de validación con los números del lote real |
 | 9:55 | 11. GitHub | Facundo | Estructura del repo, URL, FUENTES.md |

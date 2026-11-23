@@ -53,8 +53,10 @@ Este archivo describe el **sistema IoT completo del Avance 3** (firmware, base d
 │   ├── BOM.xlsx                       BOM y mapa de conexiones (equipo)
 │   ├── justificacion_componentes.md   por qué cada componente y diseño para la reparación
 │   └── fotos/                         fotos del prototipo armado
-├── diseno-3d/                         caja de control y gemelo 3D (STEP), planos, renders, STL,
-│                                      scripts paramétricos y plano de armado del brazo v3
+├── diseno-3d/                         gemelo 3D completo (SCB_gemelo_completo.step), caja de control,
+│   │                                  planos, renders, STL y scripts paramétricos
+│   └── modelo_3d/                     piezas del brazo v3, pinza, estación y base (STL/STEP),
+│                                      ensambles del robot y planos de armado
 ├── testing/                           protocolo de pruebas, análisis de resultados, simulación del firmware
 └── docs/                              guía de armado, checklist del Avance 3 y guion de la presentación
 ```
