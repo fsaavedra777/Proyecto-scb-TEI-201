@@ -20,10 +20,11 @@
 - ⬜ Revisar que el capacitivo sea /BX (NPN); si es /BY, cambiar a divisor
 
 ## Diseño 3D (20 %)
-- ✅ Gemelo 3D de la caja con componentes internos (`diseno-3d/SCB_caja_control_gemelo.step`)
+- ✅ Gemelo 3D del sistema completo: brazo, pinza, estación, fuente y caja con la electrónica adentro (`diseno-3d/SCB_gemelo_completo.step`)
+- ✅ Piezas del robot en STL y STEP, ensambles y planos de armado (`diseno-3d/modelo_3d/`)
 - ✅ Planos con vistas, cotas, tolerancias y escala (`diseno-3d/planos/planos_caja_control.pdf`)
-- ✅ Renders exterior, interior y explosionado (`diseno-3d/renders/`)
-- ⬜ Abrir los STEP en Fusion, juntarlos con el STEP del robot y guardar `.f3d` / `.f3z` en `diseno-3d/`
+- ✅ Renders exterior, interior y explosionado, de la caja y del sistema completo (`diseno-3d/renders/`)
+- ⬜ Abrir `diseno-3d/SCB_gemelo_completo.step` en Fusion, guardar y subir el `.f3d` a `diseno-3d/` (pasos en `diseno-3d/README_caja_control.md`)
 - ⬜ Practicar mostrar los componentes internos en Fusion
 
 ## Testing (10 %)
@@ -45,7 +46,7 @@
 - ✅ Guion con tiempos, roles, demo paso a paso y preguntas (`docs/guion_presentacion.md`)
 - ✅ Diapositivas en Canva: «Proyecto SCB – Avance 3» (12 páginas, con notas del orador por integrante)
 - ⬜ Reemplazar en las diapositivas 9 y 10 los «[__]» amarillos por los resultados reales del reporte de pruebas
-- ⬜ Diapositiva 8: arrastrar `diseno-3d/renders/caja_explosionada.png` al marco y borrar el texto amarillo
+- ✅ Diapositiva 8: render del gemelo completo
 - ✅ Diapositiva 11: URL del repositorio
 - ⬜ (Opcional) Diapositiva 7: reemplazar la imagen por `hardware/esquematico/esquematico_scb.png`
 - ⬜ Ensayar 8–10 minutos con cronómetro
