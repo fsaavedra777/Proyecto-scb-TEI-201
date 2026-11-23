@@ -1,0 +1,2 @@
+Fotos del prototipo armado (mínimo 3 ángulos): frente, lateral, desde arriba y la caja de control abierta.
+Nombres sugeridos: 01_frente.jpg, 02_lateral.jpg, 03_superior.jpg, 04_caja_abierta.jpg

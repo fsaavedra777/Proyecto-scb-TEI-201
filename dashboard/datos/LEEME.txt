@@ -1,0 +1,7 @@
+Aquí quedan los datos del sistema:
+
+- scb.db: base SQLite con todo el histórico (la crea gateway.py).
+- csv/: respaldo en CSV, un archivo de telemetría por día y eventos.csv.
+- scb_simulado.db: solo si usaron gateway.py --simular. No sirve como evidencia.
+
+Para la entrega, suban a testing/datos/ una copia de scb.db o de los CSV de sus pruebas reales.

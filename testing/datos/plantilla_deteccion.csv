@@ -1,0 +1,5 @@
+# P2 - Detección de llegada. Copien este archivo como deteccion.csv y llénenlo.
+# situacion: residuo | mano | brazo | nada     detecto: si | no     residuo: qué objeto fue
+# 20 residuos distintos (incluyan papel arrugado y una bolsa) + 10 veces pasar la mano + 10 movimientos del brazo.
+# Ejemplo de fila (no la copien): 1,residuo,lata de aluminio,si
+intento,situacion,residuo,detecto

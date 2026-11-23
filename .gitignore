@@ -1,0 +1,13 @@
+# Datos locales del gateway (copien a testing/datos/ los de sus pruebas reales)
+dashboard/datos/*.db
+dashboard/datos/*.db-*
+dashboard/datos/csv/
+
+# Archivos generados por la simulación
+testing/simulacion_firmware/sim
+testing/simulacion_firmware/garra_scb_iot.ino.cpp
+
+# Python
+__pycache__/
+*.pyc
+.streamlit/secrets.toml

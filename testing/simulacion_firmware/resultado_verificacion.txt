@@ -1,0 +1,24 @@
+1. Formato
+  OK     818 líneas JSON válidas, 0 inválidas
+2. Telemetría
+  OK     698 paquetes, 0 saltos de secuencia
+  OK     periodo mediano 500 ms, p95 501 ms (objetivo 500 ms)
+  OK     mayor hueco 2026 ms (durante tara/calibración)
+3. Eventos por residuo
+  OK     10 eventos (esperados 10)
+  OK     #1  OK               METAL     via=U intentos=1 latencia=1723 ms ciclo=7187 ms (esperado OK/METAL)
+  OK     #2  OK               PLASTICO  via=U intentos=1 latencia=1741 ms ciclo=6306 ms (esperado OK/PLASTICO)
+  OK     #3  OK               DESCARTE  via=P intentos=1 latencia=1705 ms ciclo=7179 ms (esperado OK/DESCARTE)
+  OK     #4  OK               PLASTICO  via=U intentos=2 latencia=1731 ms ciclo=10401 ms (esperado OK/PLASTICO)
+  OK     #5  SOBREPESO        NINGUNO   via=U intentos=0 latencia=0 ms ciclo=1246 ms (esperado SOBREPESO/NINGUNO)
+  OK     #6  FALSA_DETECCION  NINGUNO   via=U intentos=0 latencia=0 ms ciclo=1215 ms (esperado FALSA_DETECCION/NINGUNO)
+  OK     #7  FALLA_AGARRE     DESCARTE  via=U intentos=2 latencia=1790 ms ciclo=10155 ms (esperado FALLA_AGARRE/DESCARTE)
+  OK     #8  FALLA_AGARRE     METAL     via=U intentos=1 latencia=1710 ms ciclo=4216 ms (esperado FALLA_AGARRE/METAL)
+  OK     #9  PARO             METAL     via=U intentos=1 latencia=1794 ms ciclo=5274 ms (esperado PARO/METAL)
+  OK     #10 OK               PLASTICO  via=U intentos=1 latencia=1743 ms ciclo=6307 ms (esperado OK/PLASTICO)
+       ciclo medio de los OK: 7.5 s; latencia media de clasificación: 1.73 s
+4. Comandos
+  OK     rechazados: ['SEGUIR', 'TARA', 'XYZ']
+  OK     CAL 100 dejó factor 399.27 (celda simulada: 400 cuentas/g)
+
+RESULTADO: TODO OK

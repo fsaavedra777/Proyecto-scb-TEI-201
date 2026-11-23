@@ -1,0 +1,32 @@
+69000	operario pone masa patron de 100 g
+73500	operario retira masa patron
+87000	operario deja: lata de aluminio
+90201	pinza levanta: lata de aluminio
+92456	cae en contenedor METAL: lata de aluminio (real METAL)
+112000	operario deja: botella PET
+115211	pinza levanta: botella PET
+117017	cae en contenedor PLASTICO: botella PET (real PLASTICO)
+137000	operario deja: papel arrugado
+140809	pinza levanta: papel arrugado
+143067	cae en contenedor DESCARTE: papel arrugado (real DESCARTE)
+162000	operario deja: envase resbaloso
+165729	se resbalo: envase resbaloso sigue en la bandeja
+169327	pinza levanta: envase resbaloso
+171127	cae en contenedor PLASTICO: envase resbaloso (real PLASTICO)
+194000	operario deja: frasco pesado
+202000	operario retira: frasco pesado
+210000	mano pasa sobre la bandeja
+219000	operario deja: objeto imposible
+222752	se resbalo: objeto imposible sigue en la bandeja
+226852	se resbalo: objeto imposible sigue en la bandeja
+254000	operario retira: objeto imposible
+262000	operario deja: tapa que se cae
+265177	se cayo al levantar: tapa que se cae
+287000	operario deja: lata para paro
+290280	pinza levanta: lata para paro
+299500	operario saca el residuo de la pinza
+313500	operario deja: vaso plastico
+316780	pinza levanta: vaso plastico
+318583	cae en contenedor PLASTICO: vaso plastico (real PLASTICO)
+337500	operario deja: carton
+345500	operario retira: carton
