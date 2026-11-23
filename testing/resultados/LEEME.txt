@@ -1,0 +1,1 @@
+Aquí escribe analizar_pruebas.py el reporte (reporte_pruebas.md) y los gráficos de las pruebas reales.

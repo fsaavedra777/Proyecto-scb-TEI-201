@@ -1,0 +1,5 @@
+# P1 - Exactitud de la balanza. Copien este archivo como pesaje.csv y llénenlo.
+# Masas patrón: 5, 20, 50, 100 y 200 g (pesas de laboratorio o monedas pesadas en una balanza de cocina).
+# 5 repeticiones por masa: pongan la masa, esperen 3 s y anoten el "peso" del dashboard.
+# Ejemplo de fila (no la copien): 50,49.6,1
+masa_patron_g,lectura_g,repeticion
