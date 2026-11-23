@@ -4,6 +4,8 @@
 **Requerimientos:** los del Avance 2 (8 funcionales y 6 de desempeño).
 **Cómo se registran los resultados:** durante todas las pruebas corren `gateway.py` y el dashboard. Los datos quedan en `dashboard/datos/scb.db` y `python testing/analizar_pruebas.py` calcula cada indicador en `testing/resultados/reporte_pruebas.md`. Las pruebas P1 y P2 se anotan además en dos planillas (`testing/datos/`).
 
+> **Resultados estimados:** mientras no estén las pruebas físicas, `resultados/resultados_estimados.md` tiene lo que se espera de cada prueba P1–P6 y de dónde sale. No son mediciones.
+
 > **Antes de partir:** firmware v3.0 cargado, poses y balanza calibradas (ver `firmware/garra_scb_iot/README.md`), contenedores vacíos y marcados como vaciados en el dashboard. Anoten la hora de inicio y de término de cada prueba para usarlas con `--desde` y `--hasta`.
 
 ## Resumen

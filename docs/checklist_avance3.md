@@ -31,6 +31,7 @@
 - ✅ Protocolo P0–P8 con objetivo, condiciones, procedimiento, criterio y evidencia (`testing/protocolo_pruebas.md`)
 - ✅ P0 hecha: simulación del firmware 10/10 y cadena gateway → base sin pérdidas
 - ✅ Fallas F1–F6 documentadas con causa y solución
+- ✅ Resultados estimados de P1–P6 con su fundamento (`testing/resultados/resultados_estimados.md`), en la diapositiva 9 como «Resultado estimado»
 - ⬜ Hacer P1–P8 con el robot y correr `python testing/analizar_pruebas.py`
 - ⬜ Copiar `dashboard/datos/scb.db` (o los CSV) de las pruebas a `testing/datos/`
 - ⬜ Agregar al menos una falla de las pruebas físicas (F7) y completar el párrafo de validación
