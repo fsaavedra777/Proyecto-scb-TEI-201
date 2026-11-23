@@ -6,6 +6,7 @@ del sistema SCB desarrollados en Fusion 360.
 - Piezas individuales.
 - Planos técnicos.
 - Renders del diseño.
+- Guía para hacer el montaje con las piezas
 ### Fabricación
 Las piezas fueron diseñadas para
 fabricación mediante impresión 3D.
